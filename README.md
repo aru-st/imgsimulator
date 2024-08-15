@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # TypeScript Next.js example
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
@@ -49,3 +50,6 @@ A `type-check` script is also added to `package.json`, which runs TypeScript's `
 =======
 # imgsimulator
 >>>>>>> 004ee373718e6062e7846bd677c4a6b5862b3a5b
+=======
+# imgsimulator
+>>>>>>> 89fdfedb54e56f34dc8084d14dd92d3abdf8f67d
